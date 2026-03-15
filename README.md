@@ -54,13 +54,13 @@ Compare both videos based on subjects, colors, lighting, camera angle, and style
 
 ## 📦 Deliverables
 
-### 1. Original Video Reference
-* **Description:** A short clip showing a calm mountain lake at sunrise with mist rising from the water, snow-covered mountains in the background, and birds flying across the sky. 
-* **File:** `Text.to.video.Mountain.lake.sunrise.scene.mp4`
+## 🎥 Original Video
 
-### 2. Generated Video
-* **Method:** Generated using Stable Diffusion text-to-video extension with detailed prompts.
-* **File:** `AI.generated.Mountain.lake.sunrise.video.mp4`
+https://github.com/MageshCM/Ex.No.9/raw/main/Cinematic_Sunrise_Mountain_Lake_Video.mp4
+
+## 🤖 Generated Video
+
+https://github.com/MageshCM/Ex.No.9/raw/main/Sunrise_Mountain_Lake_Video_Generation.mp4
 
 ### 3. Prompts Used
 * **Basic Prompt:** "A lake surrounded by mountains."
